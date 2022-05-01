@@ -1,0 +1,7 @@
+.container {
+    background-color: #1a1a1a;
+    height: calc(100vh - 70px - 2rem);
+    padding-top: 2rem;
+    padding-left: 6rem;
+    color: #fff;
+}

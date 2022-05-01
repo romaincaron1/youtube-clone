@@ -1,0 +1,106 @@
+{
+    "videos":[
+      {
+        "id": "123456789",
+        "title":"Lady with a red umbrella",
+        "videoUrl": "",
+        "imageUrl":"https://i.picsum.photos/id/626/300/200.jpg?hmac=CV2IH1nRl4I_gBb9i-gy8QzKwxWYuzHXNvPe251LTAo",
+        "author": "Draconian",
+        "views": "324",
+        "publishedDate": "2",
+        "duration": "5:30"
+      },
+      {
+        "id": "123456789",
+        "title":"Flowers and some fruits",
+        "videoUrl": "",
+        "imageUrl":"https://i.picsum.photos/id/659/300/200.jpg?hmac=pAZxedDmeurhnmGaZlLGBXuMUq1QmQ07wWzXc172ZjY",
+        "author": "krezycsgofast",
+        "views": "666",
+        "publishedDate": "10",
+        "duration": "15:30"
+      },
+      {
+        "id": "123456789",
+        "title":"Beautiful scenery",
+        "videoUrl": "",
+        "imageUrl":"https://i.picsum.photos/id/185/300/200.jpg?hmac=NRgVq0nYX5DKDbKu2HwUPzwfwnkCObUj-JZdr_1CFmU",
+        "author": "Alderiate",
+        "views": "788",
+        "publishedDate": "5",
+        "duration": "0:30"
+      },
+      {
+        "id": "123456789",
+        "title":"Some kind of bird",
+        "videoUrl": "",
+        "imageUrl":"https://i.picsum.photos/id/921/300/200.jpg?hmac=H76SZQqYENnTEJEZf7B9QVNAj8Y2LAR3f9ev2juuphI",
+        "author": "krezycsgofast",
+        "views": "10000",
+        "publishedDate": "11",
+        "duration": "1:00"
+      },
+      {
+        "id": "123456789",
+        "title":"The attack of dragons",
+        "videoUrl": "",
+        "imageUrl":"https://i.picsum.photos/id/429/300/200.jpg?hmac=3R2CDHZYjAfiC3eZlTT_ADsaryA9_BzDQeq5rqtnbxE",
+        "author": "Alderiate",
+        "views": "300000",
+        "publishedDate": "23",
+        "duration": "2:10"
+      },
+      {
+        "id": "123456789",
+        "title":"Lady with a red umbrella",
+        "videoUrl": "",
+        "imageUrl":"https://i.picsum.photos/id/626/300/200.jpg?hmac=CV2IH1nRl4I_gBb9i-gy8QzKwxWYuzHXNvPe251LTAo",
+        "author": "Draconian",
+        "views": "324",
+        "publishedDate": "2",
+        "duration": "5:30"
+      },
+      {
+        "id": "123456789",
+        "title":"Flowers and some fruits",
+        "videoUrl": "",
+        "imageUrl":"https://i.picsum.photos/id/659/300/200.jpg?hmac=pAZxedDmeurhnmGaZlLGBXuMUq1QmQ07wWzXc172ZjY",
+        "author": "krezycsgofast",
+        "views": "666",
+        "publishedDate": "10",
+        "duration": "15:30"
+      },
+      {
+        "id": "123456789",
+        "title":"Beautiful scenery",
+        "videoUrl": "",
+        "imageUrl":"https://i.picsum.photos/id/185/300/200.jpg?hmac=NRgVq0nYX5DKDbKu2HwUPzwfwnkCObUj-JZdr_1CFmU",
+        "author": "Alderiate",
+        "views": "788",
+        "publishedDate": "5",
+        "duration": "0:30"
+      },
+      {
+        "id": "123456789",
+        "title":"Some kind of bird",
+        "videoUrl": "",
+        "imageUrl":"https://i.picsum.photos/id/921/300/200.jpg?hmac=H76SZQqYENnTEJEZf7B9QVNAj8Y2LAR3f9ev2juuphI",
+        "author": "krezycsgofast",
+        "views": "10000",
+        "publishedDate": "11",
+        "duration": "1:00"
+      },
+      {
+        "id": "123456789",
+        "title":"The attack of dragons",
+        "videoUrl": "",
+        "imageUrl":"https://i.picsum.photos/id/429/300/200.jpg?hmac=3R2CDHZYjAfiC3eZlTT_ADsaryA9_BzDQeq5rqtnbxE",
+        "author": "Alderiate",
+        "views": "300000",
+        "publishedDate": "23",
+        "duration": "2:10"
+      }
+      
+    ]
+  
+  }
